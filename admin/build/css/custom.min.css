@@ -1,0 +1,22 @@
+.dataTables_length{width:40%;float:left}
+.dataTables_filter{width:50%;float:right;text-align:right}
+.dataTables_info{width:60%;float:left}
+.dataTables_paginate{float:right;text-align:right}
+.dataTables_empty,table
+.display td
+.center{text-align:center}table
+.dataTable td
+.focus,table
+.dataTable th
+.focus{outline:#279df1 solid 2px!important;outline-offset:-1px}
+.paging_full_numbers a:active,table
+.display thead td:active,table
+.display thead th:active{outline:0}table
+.display{margin:0 auto;clear:both;width:100%}table
+.display thead th{padding:8px 18px 8px 10px;border-bottom:1px solid #000;font-weight:700;cursor:pointer}table
+.display tfoot th{padding:3px 18px 3px 10px;border-top:1px solid #000;font-weight:700}table
+.display tr
+.heading2 td{border-bottom:1px solid #aaa}table
+.display td{padding:3px 10px}
+.dataTables_scroll{clear:both}
+.dataTables_scrollBody{-webkit-overflow-scrolling:touch}
